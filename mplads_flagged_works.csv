@@ -1,0 +1,112 @@
+WORK_ID,MP_NAME,STATE,CONSTITUENCY,WORK_TYPE,SANCTIONED_COST,STATUS,RISK_SCORE,RISK_REASONS,is_synthetic_anomaly
+W000007,Deepak Verma,Uttar Pradesh,Uttar Pradesh PC-1,Public Toilet Complex,1563803,Sanctioned,45,cost is 8.1 std-dev from Public Toilet Complex median; flagged as statistical outlier (Isolation Forest),True
+W000075,Geeta Chatterjee,Uttar Pradesh,Uttar Pradesh PC-11,Streetlight Installation,175732,Completed,45,cost is -2.8 std-dev from Streetlight Installation median; flagged as statistical outlier (Isolation Forest),False
+W000115,Vinod Yadav,Uttar Pradesh,Uttar Pradesh PC-17,Anganwadi Centre,2290906,Sanctioned,45,cost is 13.6 std-dev from Anganwadi Centre median; flagged as statistical outlier (Isolation Forest),True
+W000365,Kishore Singh,Uttar Pradesh,Uttar Pradesh PC-55,Streetlight Installation,184366,Completed,45,cost is -2.6 std-dev from Streetlight Installation median; flagged as statistical outlier (Isolation Forest),False
+W000396,Deepak Pillai,Uttar Pradesh,Uttar Pradesh PC-60,Drainage/Sewage,3506061,Sanctioned,45,cost is 8.6 std-dev from Drainage/Sewage median; flagged as statistical outlier (Isolation Forest),True
+W000486,Anil Roy,Uttar Pradesh,Uttar Pradesh PC-73,Drainage/Sewage,2880081,Sanctioned,45,cost is 6.7 std-dev from Drainage/Sewage median; flagged as statistical outlier (Isolation Forest),True
+W000274,Naresh Deshmukh,Uttar Pradesh,Uttar Pradesh PC-41,Drainage/Sewage,3008156,Sanctioned,45,cost is 7.1 std-dev from Drainage/Sewage median; flagged as statistical outlier (Isolation Forest),True
+W001147,Amit Mehta,Bihar,Bihar PC-3,Road Construction/Repair,1643256,Completed,45,cost is 2.6 std-dev from Road Construction/Repair median; flagged as statistical outlier (Isolation Forest),False
+W001072,Deepak Singh,West Bengal,West Bengal PC-33,Drainage/Sewage,3674942,Sanctioned,45,cost is 9.1 std-dev from Drainage/Sewage median; flagged as statistical outlier (Isolation Forest),True
+W001548,Sunita Mondal,Tamil Nadu,Tamil Nadu PC-22,Streetlight Installation,416224,Completed,45,cost is 2.6 std-dev from Streetlight Installation median; flagged as statistical outlier (Isolation Forest),False
+W001509,Shobha Banerjee,Tamil Nadu,Tamil Nadu PC-16,Drinking Water Supply,3686802,Sanctioned,45,cost is 10.8 std-dev from Drinking Water Supply median; flagged as statistical outlier (Isolation Forest),True
+W001394,Meena Bhattacharya,Bihar,Bihar PC-39,Public Toilet Complex,1969343,Sanctioned,45,cost is 11.0 std-dev from Public Toilet Complex median; flagged as statistical outlier (Isolation Forest),True
+W000786,Vinod Iyer,Maharashtra,Maharashtra PC-38,Road Construction/Repair,1635221,Completed,45,cost is 2.6 std-dev from Road Construction/Repair median; flagged as statistical outlier (Isolation Forest),False
+W000761,Kiran Mondal,Maharashtra,Maharashtra PC-34,Road Construction/Repair,727150,Completed,45,cost is -2.6 std-dev from Road Construction/Repair median; flagged as statistical outlier (Isolation Forest),False
+W000652,Rakesh Kulkarni,Maharashtra,Maharashtra PC-19,School Building/Classroom,7945044,Sanctioned,45,cost is 13.3 std-dev from School Building/Classroom median; flagged as statistical outlier (Isolation Forest),True
+W002674,Rekha Naidu,Odisha,Odisha PC-20,Road Construction/Repair,1641789,Completed,45,cost is 2.6 std-dev from Road Construction/Repair median; flagged as statistical outlier (Isolation Forest),False
+W003059,Anil Deshmukh,Assam,Assam PC-6,Irrigation Canal,1038920,Completed,45,cost is -3.0 std-dev from Irrigation Canal median; flagged as statistical outlier (Isolation Forest),False
+W002935,Ravi Deshmukh,Telangana,Telangana PC-17,Road Construction/Repair,714013,Completed,45,cost is -2.7 std-dev from Road Construction/Repair median; flagged as statistical outlier (Isolation Forest),False
+W002879,Sanjeev Mehta,Telangana,Telangana PC-9,Irrigation Canal,1088812,Completed,45,cost is -2.8 std-dev from Irrigation Canal median; flagged as statistical outlier (Isolation Forest),False
+W003238,Rakesh Chatterjee,Chhattisgarh,Chhattisgarh PC-4,Health Sub-Centre Upgrade,5228657,Sanctioned,45,cost is 11.9 std-dev from Health Sub-Centre Upgrade median; flagged as statistical outlier (Isolation Forest),True
+W003217,Sanjay Gupta,Chhattisgarh,Chhattisgarh PC-2,Streetlight Installation,430614,Completed,45,cost is 2.9 std-dev from Streetlight Installation median; flagged as statistical outlier (Isolation Forest),False
+W003216,Vinod Naidu,Chhattisgarh,Chhattisgarh PC-1,Health Sub-Centre Upgrade,4150368,Sanctioned,45,cost is 8.8 std-dev from Health Sub-Centre Upgrade median; flagged as statistical outlier (Isolation Forest),True
+W002477,Kiran Gupta,Andhra Pradesh,Andhra Pradesh PC-14,Streetlight Installation,422423,Completed,45,cost is 2.7 std-dev from Streetlight Installation median; flagged as statistical outlier (Isolation Forest),False
+W002057,Usha Bhatt,Gujarat,Gujarat PC-2,Irrigation Canal,1148656,Completed,45,cost is -2.6 std-dev from Irrigation Canal median; flagged as statistical outlier (Isolation Forest),False
+W002119,Usha Pillai,Gujarat,Gujarat PC-10,Public Toilet Complex,1330964,Sanctioned,45,cost is 6.5 std-dev from Public Toilet Complex median; flagged as statistical outlier (Isolation Forest),True
+W002617,Raj Rao,Odisha,Odisha PC-12,School Building/Classroom,6471106,Sanctioned,45,cost is 10.3 std-dev from School Building/Classroom median; flagged as statistical outlier (Isolation Forest),True
+W001870,Ashish Patel,Karnataka,Karnataka PC-2,Public Toilet Complex,1366873,Sanctioned,45,cost is 6.7 std-dev from Public Toilet Complex median; flagged as statistical outlier (Isolation Forest),True
+W001797,Rekha Nair,Madhya Pradesh,Madhya Pradesh PC-21,Irrigation Canal,2762506,Completed,45,cost is 3.7 std-dev from Irrigation Canal median; flagged as statistical outlier (Isolation Forest),False
+W003466,Deepak Naidu,Uttarakhand,Uttarakhand PC-2,Health Sub-Centre Upgrade,3906169,Sanctioned,45,cost is 8.1 std-dev from Health Sub-Centre Upgrade median; flagged as statistical outlier (Isolation Forest),True
+W003637,Ajay Thakur,Puducherry,Puducherry PC-1,Drainage/Sewage,3326452,Sanctioned,45,cost is 8.1 std-dev from Drainage/Sewage median; flagged as statistical outlier (Isolation Forest),True
+W003154,Yogesh Das,Punjab,Punjab PC-5,Community Hall,9318320,Sanctioned,45,cost is 15.6 std-dev from Community Hall median; flagged as statistical outlier (Isolation Forest),True
+W001874,Prakash Bhattacharya,Karnataka,Karnataka PC-3,Irrigation Canal,1028946,Completed,45,cost is -3.0 std-dev from Irrigation Canal median; flagged as statistical outlier (Isolation Forest),False
+W001933,Shobha Pillai,Karnataka,Karnataka PC-11,Drinking Water Supply,4308722,Sanctioned,45,cost is 13.1 std-dev from Drinking Water Supply median; flagged as statistical outlier (Isolation Forest),True
+W001599,Geeta Gaikwad,Tamil Nadu,Tamil Nadu PC-30,Streetlight Installation,182124,Completed,45,cost is -2.7 std-dev from Streetlight Installation median; flagged as statistical outlier (Isolation Forest),False
+W000731,Arun Yadav,Maharashtra,Maharashtra PC-30,Drinking Water Supply,800000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W000691,Kavita Joshi,Maharashtra,Maharashtra PC-24,Public Toilet Complex,400000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W000738,Anil Sharma,Maharashtra,Maharashtra PC-31,Drinking Water Supply,800000,Completed,40,completed in 7% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W000635,Sanjeev Joshi,Maharashtra,Maharashtra PC-16,School Building/Classroom,1500000,Completed,40,completed in 2% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W000606,Poonam Barman,Maharashtra,Maharashtra PC-12,Community Hall,2000000,Completed,40,completed in 1% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W002862,Yogesh Patel,Telangana,Telangana PC-6,Road Construction/Repair,1200000,Completed,40,completed in 2% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W002677,Rekha Naidu,Odisha,Odisha PC-20,School Building/Classroom,1500000,Completed,40,completed in 1% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W003144,Shobha Gupta,Punjab,Punjab PC-3,Irrigation Canal,1800000,Completed,40,completed in 2% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W003311,Vijay Mishra,Haryana,Haryana PC-3,Community Hall,2000000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W002712,Shobha Kulkarni,Kerala,Kerala PC-4,School Building/Classroom,1500000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W000512,Manoj Mondal,Uttar Pradesh,Uttar Pradesh PC-77,Public Toilet Complex,400000,Completed,40,completed in 10% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W000250,Arun Das,Uttar Pradesh,Uttar Pradesh PC-38,Health Sub-Centre Upgrade,1000000,Completed,40,completed in 1% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W002831,Kishore Bhatt,Telangana,Telangana PC-2,Streetlight Installation,300000,Completed,40,completed in 5% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W003368,Dinesh Bhatt,Delhi,Delhi PC-1,Drinking Water Supply,800000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W003546,Vikram Deshmukh,Tripura,Tripura PC-2,Streetlight Installation,300000,Completed,40,completed in 7% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W002503,Sanjeev Mondal,Andhra Pradesh,Andhra Pradesh PC-18,Public Toilet Complex,400000,Completed,40,completed in 7% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W002316,Vikram Das,Rajasthan,Rajasthan PC-14,Health Sub-Centre Upgrade,1000000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W001821,Satish Iyer,Madhya Pradesh,Madhya Pradesh PC-24,Irrigation Canal,1800000,Completed,40,completed in 1% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W001628,Neelam Banerjee,Tamil Nadu,Tamil Nadu PC-34,Drinking Water Supply,800000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W001756,Anita Kumar,Madhya Pradesh,Madhya Pradesh PC-15,Irrigation Canal,1800000,Completed,40,completed in 1% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W003575,Ashish Bhattacharya,Manipur,Manipur PC-2,Community Hall,2000000,Completed,40,completed in 3% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W002393,Rakesh Pandey,Rajasthan,Rajasthan PC-24,Streetlight Installation,300000,Completed,40,completed in 9% of typical duration; flagged as statistical outlier (Isolation Forest),True
+W000266,Geeta Patel,Uttar Pradesh,Uttar Pradesh PC-40,Irrigation Canal,1166181,Ongoing,35,cost is -2.5 std-dev from Irrigation Canal median,False
+W001676,Kiran Das,Madhya Pradesh,Madhya Pradesh PC-3,Streetlight Installation,296758,Sanctioned,25,"near-duplicate work (same site as W001668 (plot #962, 92% text match, 24d apart))",True
+W003333,Geeta Yadav,Haryana,Haryana PC-6,Community Hall,1760303,Completed,25,"near-duplicate work (same site as W003334 (plot #351, 91% text match, 33d apart))",False
+W002727,Sunita Mehta,Kerala,Kerala PC-6,Drainage/Sewage,708998,Sanctioned,25,"near-duplicate work (same site as W002724 (plot #565, 90% text match, 24d apart))",True
+W002724,Sunita Mehta,Kerala,Kerala PC-6,Drainage/Sewage,931770,Completed,25,"near-duplicate work (same site as W002727 (plot #565, 90% text match, 24d apart))",False
+W002970,Harish Das,Jharkhand,Jharkhand PC-5,Irrigation Canal,1596903,Completed,25,"near-duplicate work (same site as W002975 (plot #392, 90% text match, 21d apart))",False
+W002089,Deepak Joshi,Gujarat,Gujarat PC-6,Streetlight Installation,326854,Sanctioned,25,"near-duplicate work (same site as W002081 (plot #857, 91% text match, 23d apart))",True
+W000878,Anita Choudhary,West Bengal,West Bengal PC-4,Streetlight Installation,269709,Completed,25,"near-duplicate work (same site as W000881 (plot #167, 93% text match, 42d apart))",False
+W000881,Anita Choudhary,West Bengal,West Bengal PC-4,Streetlight Installation,302331,Sanctioned,25,"near-duplicate work (same site as W000878 (plot #167, 93% text match, 42d apart))",True
+W000873,Sanjeev Pandey,West Bengal,West Bengal PC-3,Streetlight Installation,294582,Sanctioned,25,"near-duplicate work (same site as W000872 (plot #45, 92% text match, 26d apart))",True
+W000265,Geeta Patel,Uttar Pradesh,Uttar Pradesh PC-40,Community Hall,2402441,Ongoing,25,"near-duplicate work (same site as W000269 (plot #484, 91% text match, 18d apart))",False
+W000269,Geeta Patel,Uttar Pradesh,Uttar Pradesh PC-40,Community Hall,1986916,Sanctioned,25,"near-duplicate work (same site as W000265 (plot #484, 91% text match, 18d apart))",True
+W000976,Arun Thakur,West Bengal,West Bengal PC-19,Irrigation Canal,1660475,Completed,25,"near-duplicate work (same site as W000982 (plot #952, 92% text match, 40d apart))",False
+W001355,Kavita Kulkarni,Bihar,Bihar PC-34,Public Toilet Complex,378320,Sanctioned,25,"near-duplicate work (same site as W001351 (plot #904, 91% text match, 21d apart))",True
+W001351,Kavita Kulkarni,Bihar,Bihar PC-34,Public Toilet Complex,443466,Completed,25,"near-duplicate work (same site as W001355 (plot #904, 91% text match, 21d apart))",False
+W002081,Deepak Joshi,Gujarat,Gujarat PC-6,Streetlight Installation,245588,Completed,25,"near-duplicate work (same site as W002089 (plot #857, 91% text match, 23d apart))",False
+W001731,Anita Gaikwad,Madhya Pradesh,Madhya Pradesh PC-11,Community Hall,1531191,Ongoing,25,"near-duplicate work (same site as W001732 (plot #825, 91% text match, 37d apart))",False
+W001704,Harish Verma,Madhya Pradesh,Madhya Pradesh PC-8,Irrigation Canal,1531196,Completed,25,"near-duplicate work (same site as W001711 (plot #361, 91% text match, 25d apart))",False
+W001711,Harish Verma,Madhya Pradesh,Madhya Pradesh PC-8,Irrigation Canal,2011744,Sanctioned,25,"near-duplicate work (same site as W001704 (plot #361, 91% text match, 25d apart))",True
+W000971,Neelam Thakur,West Bengal,West Bengal PC-17,Anganwadi Centre,615306,Sanctioned,25,"near-duplicate work (same site as W000966 (plot #610, 92% text match, 29d apart))",True
+W000966,Neelam Thakur,West Bengal,West Bengal PC-17,Anganwadi Centre,483831,Completed,25,"near-duplicate work (same site as W000971 (plot #610, 92% text match, 29d apart))",False
+W000982,Arun Thakur,West Bengal,West Bengal PC-19,Irrigation Canal,2113910,Sanctioned,25,"near-duplicate work (same site as W000976 (plot #952, 92% text match, 40d apart))",True
+W000872,Sanjeev Pandey,West Bengal,West Bengal PC-3,Streetlight Installation,361037,Completed,25,"near-duplicate work (same site as W000873 (plot #45, 92% text match, 26d apart))",False
+W003420,Mahesh Pandey,Jammu and Kashmir,Jammu and Kashmir PC-1,Health Sub-Centre Upgrade,887379,Sanctioned,25,"near-duplicate work (same site as W003417 (plot #578, 93% text match, 29d apart))",True
+W003417,Mahesh Pandey,Jammu and Kashmir,Jammu and Kashmir PC-1,Health Sub-Centre Upgrade,1015832,Completed,25,"near-duplicate work (same site as W003420 (plot #578, 93% text match, 29d apart))",False
+W003334,Geeta Yadav,Haryana,Haryana PC-6,Community Hall,2456352,Sanctioned,25,"near-duplicate work (same site as W003333 (plot #351, 91% text match, 33d apart))",True
+W002975,Harish Das,Jharkhand,Jharkhand PC-5,Irrigation Canal,2013411,Sanctioned,25,"near-duplicate work (same site as W002970 (plot #392, 90% text match, 21d apart))",True
+W001732,Anita Gaikwad,Madhya Pradesh,Madhya Pradesh PC-11,Community Hall,2159736,Sanctioned,25,"near-duplicate work (same site as W001731 (plot #825, 91% text match, 37d apart))",True
+W001668,Kiran Das,Madhya Pradesh,Madhya Pradesh PC-3,Streetlight Installation,302733,Completed,25,"near-duplicate work (same site as W001676 (plot #962, 92% text match, 24d apart))",False
+W002482,Arun Kulkarni,Andhra Pradesh,Andhra Pradesh PC-15,Community Hall,1499492,Completed,25,"near-duplicate work (same site as W002487 (plot #792, 92% text match, 37d apart))",False
+W002487,Arun Kulkarni,Andhra Pradesh,Andhra Pradesh PC-15,Community Hall,2093103,Sanctioned,25,"near-duplicate work (same site as W002482 (plot #792, 92% text match, 37d apart))",True
+W000591,Anil Das,Maharashtra,Maharashtra PC-9,Drinking Water Supply,800000,Ongoing,20,"ongoing 793d, >2.5x typical duration",True
+W000357,Deepak Rao,Uttar Pradesh,Uttar Pradesh PC-53,Community Hall,2000000,Ongoing,20,"ongoing 790d, >2.5x typical duration",True
+W000296,Ajay Banerjee,Uttar Pradesh,Uttar Pradesh PC-45,School Building/Classroom,1500000,Ongoing,20,"ongoing 814d, >2.5x typical duration",True
+W000318,Arun Iyer,Uttar Pradesh,Uttar Pradesh PC-48,Streetlight Installation,300000,Ongoing,20,"ongoing 793d, >2.5x typical duration",True
+W001285,Anita Patel,Bihar,Bihar PC-24,Drainage/Sewage,700000,Ongoing,20,"ongoing 791d, >2.5x typical duration",True
+W000549,Shobha Chatterjee,Maharashtra,Maharashtra PC-3,Anganwadi Centre,600000,Ongoing,20,"ongoing 816d, >2.5x typical duration",True
+W000596,Dinesh Singh,Maharashtra,Maharashtra PC-10,Anganwadi Centre,600000,Ongoing,20,"ongoing 788d, >2.5x typical duration",True
+W000903,Manoj Thakur,West Bengal,West Bengal PC-7,Drinking Water Supply,800000,Ongoing,20,"ongoing 792d, >2.5x typical duration",True
+W001481,Ajay Roy,Tamil Nadu,Tamil Nadu PC-12,Public Toilet Complex,400000,Ongoing,20,"ongoing 803d, >2.5x typical duration",True
+W001338,Ajay Naidu,Bihar,Bihar PC-32,Community Hall,2000000,Ongoing,20,"ongoing 808d, >2.5x typical duration",True
+W001346,Arun Nair,Bihar,Bihar PC-33,Irrigation Canal,1800000,Ongoing,20,"ongoing 799d, >2.5x typical duration",True
+W001322,Deepak Thakur,Bihar,Bihar PC-30,Public Toilet Complex,400000,Ongoing,20,"ongoing 797d, >2.5x typical duration",True
+W002080,Anita Das,Gujarat,Gujarat PC-5,School Building/Classroom,1500000,Ongoing,20,"ongoing 804d, >2.5x typical duration",True
+W001778,Prakash Das,Madhya Pradesh,Madhya Pradesh PC-18,Irrigation Canal,1800000,Ongoing,20,"ongoing 794d, >2.5x typical duration",True
+W001549,Sunita Mondal,Tamil Nadu,Tamil Nadu PC-22,Drainage/Sewage,700000,Ongoing,20,"ongoing 789d, >2.5x typical duration",True
+W002286,Sunita Roy,Rajasthan,Rajasthan PC-9,Irrigation Canal,1800000,Ongoing,20,"ongoing 789d, >2.5x typical duration",True
+W002624,Sanjeev Rao,Odisha,Odisha PC-13,Streetlight Installation,300000,Ongoing,20,"ongoing 801d, >2.5x typical duration",True
+W002596,Kiran Patel,Odisha,Odisha PC-8,Public Toilet Complex,400000,Ongoing,20,"ongoing 814d, >2.5x typical duration",True
+W002570,Geeta Kulkarni,Odisha,Odisha PC-4,Community Hall,2000000,Ongoing,20,"ongoing 790d, >2.5x typical duration",True
+W002663,Naresh Barman,Odisha,Odisha PC-18,School Building/Classroom,1500000,Ongoing,20,"ongoing 800d, >2.5x typical duration",True
+W003065,Anil Deshmukh,Assam,Assam PC-6,Community Hall,2000000,Ongoing,20,"ongoing 794d, >2.5x typical duration",True
+W002845,Harish Iyer,Telangana,Telangana PC-4,Health Sub-Centre Upgrade,1000000,Ongoing,20,"ongoing 810d, >2.5x typical duration",True
+W003361,Kishore Pillai,Haryana,Haryana PC-10,Drinking Water Supply,800000,Ongoing,20,"ongoing 815d, >2.5x typical duration",True
+W003441,Kiran Chatterjee,Jammu and Kashmir,Jammu and Kashmir PC-4,Drainage/Sewage,700000,Ongoing,20,"ongoing 788d, >2.5x typical duration",True

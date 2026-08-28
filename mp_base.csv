@@ -1,0 +1,544 @@
+MP_ID,STATE,MP_NAME,CONSTITUENCY,ALLOCATED_AMOUNT,TENURE_START_DATE,TENURE_END_DATE
+MP0001,Uttar Pradesh,Deepak Verma,Uttar Pradesh PC-1,500000000,2024-06-01,2029-05-31
+MP0002,Uttar Pradesh,Poonam Roy,Uttar Pradesh PC-2,500000000,2024-06-01,2029-05-31
+MP0003,Uttar Pradesh,Geeta Nair,Uttar Pradesh PC-3,500000000,2024-06-01,2029-05-31
+MP0004,Uttar Pradesh,Sanjay Kumar,Uttar Pradesh PC-4,500000000,2024-06-01,2029-05-31
+MP0005,Uttar Pradesh,Vijay Bhattacharya,Uttar Pradesh PC-5,500000000,2024-06-01,2029-05-31
+MP0006,Uttar Pradesh,Suresh Verma,Uttar Pradesh PC-6,500000000,2024-06-01,2029-05-31
+MP0007,Uttar Pradesh,Ravi Choudhary,Uttar Pradesh PC-7,500000000,2024-06-01,2029-05-31
+MP0008,Uttar Pradesh,Geeta Verma,Uttar Pradesh PC-8,500000000,2024-06-01,2029-05-31
+MP0009,Uttar Pradesh,Arun Joshi,Uttar Pradesh PC-9,500000000,2024-06-01,2029-05-31
+MP0010,Uttar Pradesh,Neelam Kulkarni,Uttar Pradesh PC-10,500000000,2024-06-01,2029-05-31
+MP0011,Uttar Pradesh,Geeta Chatterjee,Uttar Pradesh PC-11,500000000,2024-06-01,2029-05-31
+MP0012,Uttar Pradesh,Vijay Pillai,Uttar Pradesh PC-12,500000000,2024-06-01,2029-05-31
+MP0013,Uttar Pradesh,Raj Chauhan,Uttar Pradesh PC-13,500000000,2024-06-01,2029-05-31
+MP0014,Uttar Pradesh,Rakesh Mishra,Uttar Pradesh PC-14,500000000,2024-06-01,2029-05-31
+MP0015,Uttar Pradesh,Poonam Rao,Uttar Pradesh PC-15,500000000,2024-06-01,2029-05-31
+MP0016,Uttar Pradesh,Meena Mishra,Uttar Pradesh PC-16,500000000,2024-06-01,2029-05-31
+MP0017,Uttar Pradesh,Vinod Yadav,Uttar Pradesh PC-17,500000000,2024-06-01,2029-05-31
+MP0018,Uttar Pradesh,Prakash Bhatt,Uttar Pradesh PC-18,500000000,2024-06-01,2029-05-31
+MP0019,Uttar Pradesh,Kishore Iyer,Uttar Pradesh PC-19,500000000,2024-06-01,2029-05-31
+MP0020,Uttar Pradesh,Suresh Banerjee,Uttar Pradesh PC-20,500000000,2024-06-01,2029-05-31
+MP0021,Uttar Pradesh,Neelam Gupta,Uttar Pradesh PC-21,500000000,2024-06-01,2029-05-31
+MP0022,Uttar Pradesh,Vinod Kumar,Uttar Pradesh PC-22,500000000,2024-06-01,2029-05-31
+MP0023,Uttar Pradesh,Arun Naidu,Uttar Pradesh PC-23,500000000,2024-06-01,2029-05-31
+MP0024,Uttar Pradesh,Harish Rathore,Uttar Pradesh PC-24,500000000,2024-06-01,2029-05-31
+MP0025,Uttar Pradesh,Ashish Joshi,Uttar Pradesh PC-25,500000000,2024-06-01,2029-05-31
+MP0026,Uttar Pradesh,Vikram Patel,Uttar Pradesh PC-26,500000000,2024-06-01,2029-05-31
+MP0027,Uttar Pradesh,Geeta Naidu,Uttar Pradesh PC-27,500000000,2024-06-01,2029-05-31
+MP0028,Uttar Pradesh,Ravi Das,Uttar Pradesh PC-28,500000000,2024-06-01,2029-05-31
+MP0029,Uttar Pradesh,Sanjay Gaikwad,Uttar Pradesh PC-29,500000000,2024-06-01,2029-05-31
+MP0030,Uttar Pradesh,Poonam Banerjee,Uttar Pradesh PC-30,500000000,2024-06-01,2029-05-31
+MP0031,Uttar Pradesh,Ramesh Chauhan,Uttar Pradesh PC-31,500000000,2024-06-01,2029-05-31
+MP0032,Uttar Pradesh,Ramesh Bhatt,Uttar Pradesh PC-32,500000000,2024-06-01,2029-05-31
+MP0033,Uttar Pradesh,Meena Pillai,Uttar Pradesh PC-33,500000000,2024-06-01,2029-05-31
+MP0034,Uttar Pradesh,Vikram Chauhan,Uttar Pradesh PC-34,500000000,2024-06-01,2029-05-31
+MP0035,Uttar Pradesh,Neelam Roy,Uttar Pradesh PC-35,500000000,2024-06-01,2029-05-31
+MP0036,Uttar Pradesh,Sunita Banerjee,Uttar Pradesh PC-36,500000000,2024-06-01,2029-05-31
+MP0037,Uttar Pradesh,Vinod Pillai,Uttar Pradesh PC-37,500000000,2024-06-01,2029-05-31
+MP0038,Uttar Pradesh,Arun Das,Uttar Pradesh PC-38,500000000,2024-06-01,2029-05-31
+MP0039,Uttar Pradesh,Naresh Reddy,Uttar Pradesh PC-39,500000000,2024-06-01,2029-05-31
+MP0040,Uttar Pradesh,Geeta Patel,Uttar Pradesh PC-40,500000000,2024-06-01,2029-05-31
+MP0041,Uttar Pradesh,Naresh Deshmukh,Uttar Pradesh PC-41,500000000,2024-06-01,2029-05-31
+MP0042,Uttar Pradesh,Poonam Singh,Uttar Pradesh PC-42,500000000,2024-06-01,2029-05-31
+MP0043,Uttar Pradesh,Meena Pandey,Uttar Pradesh PC-43,500000000,2024-06-01,2029-05-31
+MP0044,Uttar Pradesh,Meena Barman,Uttar Pradesh PC-44,500000000,2024-06-01,2029-05-31
+MP0045,Uttar Pradesh,Ajay Banerjee,Uttar Pradesh PC-45,500000000,2024-06-01,2029-05-31
+MP0046,Uttar Pradesh,Ashok Iyer,Uttar Pradesh PC-46,500000000,2024-06-01,2029-05-31
+MP0047,Uttar Pradesh,Manoj Roy,Uttar Pradesh PC-47,500000000,2024-06-01,2029-05-31
+MP0048,Uttar Pradesh,Arun Iyer,Uttar Pradesh PC-48,500000000,2024-06-01,2029-05-31
+MP0049,Uttar Pradesh,Vijay Deshmukh,Uttar Pradesh PC-49,500000000,2024-06-01,2029-05-31
+MP0050,Uttar Pradesh,Ramesh Das,Uttar Pradesh PC-50,500000000,2024-06-01,2029-05-31
+MP0051,Uttar Pradesh,Manoj Barman,Uttar Pradesh PC-51,500000000,2024-06-01,2029-05-31
+MP0052,Uttar Pradesh,Ravi Reddy,Uttar Pradesh PC-52,500000000,2024-06-01,2029-05-31
+MP0053,Uttar Pradesh,Deepak Rao,Uttar Pradesh PC-53,500000000,2024-06-01,2029-05-31
+MP0054,Uttar Pradesh,Sunita Bhattacharya,Uttar Pradesh PC-54,500000000,2024-06-01,2029-05-31
+MP0055,Uttar Pradesh,Kishore Singh,Uttar Pradesh PC-55,500000000,2024-06-01,2029-05-31
+MP0056,Uttar Pradesh,Vinod Gaikwad,Uttar Pradesh PC-56,500000000,2024-06-01,2029-05-31
+MP0057,Uttar Pradesh,Kishore Banerjee,Uttar Pradesh PC-57,500000000,2024-06-01,2029-05-31
+MP0058,Uttar Pradesh,Shobha Iyer,Uttar Pradesh PC-58,500000000,2024-06-01,2029-05-31
+MP0059,Uttar Pradesh,Arun Sharma,Uttar Pradesh PC-59,500000000,2024-06-01,2029-05-31
+MP0060,Uttar Pradesh,Deepak Pillai,Uttar Pradesh PC-60,500000000,2024-06-01,2029-05-31
+MP0061,Uttar Pradesh,Dinesh Gupta,Uttar Pradesh PC-61,500000000,2024-06-01,2029-05-31
+MP0062,Uttar Pradesh,Rajesh Bhattacharya,Uttar Pradesh PC-62,500000000,2024-06-01,2029-05-31
+MP0063,Uttar Pradesh,Raj Iyer,Uttar Pradesh PC-63,500000000,2024-06-01,2029-05-31
+MP0064,Uttar Pradesh,Lata Mehta,Uttar Pradesh PC-64,500000000,2024-06-01,2029-05-31
+MP0065,Uttar Pradesh,Lata Yadav,Uttar Pradesh PC-65,500000000,2024-06-01,2029-05-31
+MP0066,Uttar Pradesh,Mahesh Joshi,Uttar Pradesh PC-66,500000000,2024-06-01,2029-05-31
+MP0067,Uttar Pradesh,Ashok Rathore,Uttar Pradesh PC-67,500000000,2024-06-01,2029-05-31
+MP0068,Uttar Pradesh,Sunita Sharma,Uttar Pradesh PC-68,500000000,2024-06-01,2029-05-31
+MP0069,Uttar Pradesh,Kishore Pandey,Uttar Pradesh PC-69,500000000,2024-06-01,2029-05-31
+MP0070,Uttar Pradesh,Kiran Verma,Uttar Pradesh PC-70,500000000,2024-06-01,2029-05-31
+MP0071,Uttar Pradesh,Deepak Rathore,Uttar Pradesh PC-71,500000000,2024-06-01,2029-05-31
+MP0072,Uttar Pradesh,Mahesh Roy,Uttar Pradesh PC-72,500000000,2024-06-01,2029-05-31
+MP0073,Uttar Pradesh,Anil Roy,Uttar Pradesh PC-73,500000000,2024-06-01,2029-05-31
+MP0074,Uttar Pradesh,Ashish Kumar,Uttar Pradesh PC-74,500000000,2024-06-01,2029-05-31
+MP0075,Uttar Pradesh,Ravi Barman,Uttar Pradesh PC-75,500000000,2024-06-01,2029-05-31
+MP0076,Uttar Pradesh,Vikram Nair,Uttar Pradesh PC-76,500000000,2024-06-01,2029-05-31
+MP0077,Uttar Pradesh,Manoj Mondal,Uttar Pradesh PC-77,500000000,2024-06-01,2029-05-31
+MP0078,Uttar Pradesh,Arun Chauhan,Uttar Pradesh PC-78,500000000,2024-06-01,2029-05-31
+MP0079,Uttar Pradesh,Anita Bhattacharya,Uttar Pradesh PC-79,500000000,2024-06-01,2029-05-31
+MP0080,Uttar Pradesh,Meena Joshi,Uttar Pradesh PC-80,500000000,2024-06-01,2029-05-31
+MP0081,Maharashtra,Mahesh Deshmukh,Maharashtra PC-1,500000000,2024-06-01,2029-05-31
+MP0082,Maharashtra,Ramesh Chatterjee,Maharashtra PC-2,500000000,2024-06-01,2029-05-31
+MP0083,Maharashtra,Shobha Chatterjee,Maharashtra PC-3,500000000,2024-06-01,2029-05-31
+MP0084,Maharashtra,Deepak Roy,Maharashtra PC-4,500000000,2024-06-01,2029-05-31
+MP0085,Maharashtra,Geeta Singh,Maharashtra PC-5,500000000,2024-06-01,2029-05-31
+MP0086,Maharashtra,Dinesh Verma,Maharashtra PC-6,500000000,2024-06-01,2029-05-31
+MP0087,Maharashtra,Vijay Das,Maharashtra PC-7,500000000,2024-06-01,2029-05-31
+MP0088,Maharashtra,Raj Singh,Maharashtra PC-8,500000000,2024-06-01,2029-05-31
+MP0089,Maharashtra,Anil Das,Maharashtra PC-9,500000000,2024-06-01,2029-05-31
+MP0090,Maharashtra,Dinesh Singh,Maharashtra PC-10,500000000,2024-06-01,2029-05-31
+MP0091,Maharashtra,Lata Roy,Maharashtra PC-11,500000000,2024-06-01,2029-05-31
+MP0092,Maharashtra,Poonam Barman,Maharashtra PC-12,500000000,2024-06-01,2029-05-31
+MP0093,Maharashtra,Meena Nair,Maharashtra PC-13,500000000,2024-06-01,2029-05-31
+MP0094,Maharashtra,Ashish Mondal,Maharashtra PC-14,500000000,2024-06-01,2029-05-31
+MP0095,Maharashtra,Rekha Mondal,Maharashtra PC-15,500000000,2024-06-01,2029-05-31
+MP0096,Maharashtra,Sanjeev Joshi,Maharashtra PC-16,500000000,2024-06-01,2029-05-31
+MP0097,Maharashtra,Sanjay Yadav,Maharashtra PC-17,500000000,2024-06-01,2029-05-31
+MP0098,Maharashtra,Rakesh Bhatt,Maharashtra PC-18,500000000,2024-06-01,2029-05-31
+MP0099,Maharashtra,Rakesh Kulkarni,Maharashtra PC-19,500000000,2024-06-01,2029-05-31
+MP0100,Maharashtra,Satish Reddy,Maharashtra PC-20,500000000,2024-06-01,2029-05-31
+MP0101,Maharashtra,Sanjay Reddy,Maharashtra PC-21,500000000,2024-06-01,2029-05-31
+MP0102,Maharashtra,Ajay Mishra,Maharashtra PC-22,500000000,2024-06-01,2029-05-31
+MP0103,Maharashtra,Sanjay Roy,Maharashtra PC-23,500000000,2024-06-01,2029-05-31
+MP0104,Maharashtra,Kavita Joshi,Maharashtra PC-24,500000000,2024-06-01,2029-05-31
+MP0105,Maharashtra,Neelam Chatterjee,Maharashtra PC-25,500000000,2024-06-01,2029-05-31
+MP0106,Maharashtra,Manoj Bhattacharya,Maharashtra PC-26,500000000,2024-06-01,2029-05-31
+MP0107,Maharashtra,Priya Pillai,Maharashtra PC-27,500000000,2024-06-01,2029-05-31
+MP0108,Maharashtra,Satish Roy,Maharashtra PC-28,500000000,2024-06-01,2029-05-31
+MP0109,Maharashtra,Vikram Chatterjee,Maharashtra PC-29,500000000,2024-06-01,2029-05-31
+MP0110,Maharashtra,Arun Yadav,Maharashtra PC-30,500000000,2024-06-01,2029-05-31
+MP0111,Maharashtra,Anil Sharma,Maharashtra PC-31,500000000,2024-06-01,2029-05-31
+MP0112,Maharashtra,Ravi Roy,Maharashtra PC-32,500000000,2024-06-01,2029-05-31
+MP0113,Maharashtra,Sunita Kulkarni,Maharashtra PC-33,500000000,2024-06-01,2029-05-31
+MP0114,Maharashtra,Kiran Mondal,Maharashtra PC-34,500000000,2024-06-01,2029-05-31
+MP0115,Maharashtra,Meena Deshmukh,Maharashtra PC-35,500000000,2024-06-01,2029-05-31
+MP0116,Maharashtra,Anil Chauhan,Maharashtra PC-36,500000000,2024-06-01,2029-05-31
+MP0117,Maharashtra,Vinod Sharma,Maharashtra PC-37,500000000,2024-06-01,2029-05-31
+MP0118,Maharashtra,Vinod Iyer,Maharashtra PC-38,500000000,2024-06-01,2029-05-31
+MP0119,Maharashtra,Satish Naidu,Maharashtra PC-39,500000000,2024-06-01,2029-05-31
+MP0120,Maharashtra,Rakesh Barman,Maharashtra PC-40,500000000,2024-06-01,2029-05-31
+MP0121,Maharashtra,Ashok Joshi,Maharashtra PC-41,500000000,2024-06-01,2029-05-31
+MP0122,Maharashtra,Rajesh Choudhary,Maharashtra PC-42,500000000,2024-06-01,2029-05-31
+MP0123,Maharashtra,Anil Reddy,Maharashtra PC-43,500000000,2024-06-01,2029-05-31
+MP0124,Maharashtra,Anil Mondal,Maharashtra PC-44,500000000,2024-06-01,2029-05-31
+MP0125,Maharashtra,Lata Chauhan,Maharashtra PC-45,500000000,2024-06-01,2029-05-31
+MP0126,Maharashtra,Anil Kumar,Maharashtra PC-46,500000000,2024-06-01,2029-05-31
+MP0127,Maharashtra,Priya Singh,Maharashtra PC-47,500000000,2024-06-01,2029-05-31
+MP0128,Maharashtra,Rekha Deshmukh,Maharashtra PC-48,500000000,2024-06-01,2029-05-31
+MP0129,West Bengal,Vijay Patel,West Bengal PC-1,500000000,2024-06-01,2029-05-31
+MP0130,West Bengal,Harish Kumar,West Bengal PC-2,500000000,2024-06-01,2029-05-31
+MP0131,West Bengal,Sanjeev Pandey,West Bengal PC-3,500000000,2024-06-01,2029-05-31
+MP0132,West Bengal,Anita Choudhary,West Bengal PC-4,500000000,2024-06-01,2029-05-31
+MP0133,West Bengal,Naresh Roy,West Bengal PC-5,500000000,2024-06-01,2029-05-31
+MP0134,West Bengal,Anita Deshmukh,West Bengal PC-6,500000000,2024-06-01,2029-05-31
+MP0135,West Bengal,Manoj Thakur,West Bengal PC-7,500000000,2024-06-01,2029-05-31
+MP0136,West Bengal,Satish Pandey,West Bengal PC-8,500000000,2024-06-01,2029-05-31
+MP0137,West Bengal,Vikram Sharma,West Bengal PC-9,500000000,2024-06-01,2029-05-31
+MP0138,West Bengal,Satish Yadav,West Bengal PC-10,500000000,2024-06-01,2029-05-31
+MP0139,West Bengal,Vikram Choudhary,West Bengal PC-11,500000000,2024-06-01,2029-05-31
+MP0140,West Bengal,Lata Iyer,West Bengal PC-12,500000000,2024-06-01,2029-05-31
+MP0141,West Bengal,Manoj Bhatt,West Bengal PC-13,500000000,2024-06-01,2029-05-31
+MP0142,West Bengal,Vikram Roy,West Bengal PC-14,500000000,2024-06-01,2029-05-31
+MP0143,West Bengal,Ramesh Naidu,West Bengal PC-15,500000000,2024-06-01,2029-05-31
+MP0144,West Bengal,Sunita Chatterjee,West Bengal PC-16,500000000,2024-06-01,2029-05-31
+MP0145,West Bengal,Neelam Thakur,West Bengal PC-17,500000000,2024-06-01,2029-05-31
+MP0146,West Bengal,Harish Sharma,West Bengal PC-18,500000000,2024-06-01,2029-05-31
+MP0147,West Bengal,Arun Thakur,West Bengal PC-19,500000000,2024-06-01,2029-05-31
+MP0148,West Bengal,Sanjay Nair,West Bengal PC-20,500000000,2024-06-01,2029-05-31
+MP0149,West Bengal,Anita Gupta,West Bengal PC-21,500000000,2024-06-01,2029-05-31
+MP0150,West Bengal,Sanjay Rao,West Bengal PC-22,500000000,2024-06-01,2029-05-31
+MP0151,West Bengal,Poonam Naidu,West Bengal PC-23,500000000,2024-06-01,2029-05-31
+MP0152,West Bengal,Kishore Choudhary,West Bengal PC-24,500000000,2024-06-01,2029-05-31
+MP0153,West Bengal,Dinesh Choudhary,West Bengal PC-25,500000000,2024-06-01,2029-05-31
+MP0154,West Bengal,Anita Barman,West Bengal PC-26,500000000,2024-06-01,2029-05-31
+MP0155,West Bengal,Anita Reddy,West Bengal PC-27,500000000,2024-06-01,2029-05-31
+MP0156,West Bengal,Ravi Bhattacharya,West Bengal PC-28,500000000,2024-06-01,2029-05-31
+MP0157,West Bengal,Poonam Patel,West Bengal PC-29,500000000,2024-06-01,2029-05-31
+MP0158,West Bengal,Raj Mishra,West Bengal PC-30,500000000,2024-06-01,2029-05-31
+MP0159,West Bengal,Manoj Iyer,West Bengal PC-31,500000000,2024-06-01,2029-05-31
+MP0160,West Bengal,Arun Bhattacharya,West Bengal PC-32,500000000,2024-06-01,2029-05-31
+MP0161,West Bengal,Deepak Singh,West Bengal PC-33,500000000,2024-06-01,2029-05-31
+MP0162,West Bengal,Ashok Patel,West Bengal PC-34,500000000,2024-06-01,2029-05-31
+MP0163,West Bengal,Ramesh Rao,West Bengal PC-35,500000000,2024-06-01,2029-05-31
+MP0164,West Bengal,Rakesh Nair,West Bengal PC-36,500000000,2024-06-01,2029-05-31
+MP0165,West Bengal,Suresh Thakur,West Bengal PC-37,500000000,2024-06-01,2029-05-31
+MP0166,West Bengal,Ramesh Patel,West Bengal PC-38,500000000,2024-06-01,2029-05-31
+MP0167,West Bengal,Prakash Choudhary,West Bengal PC-39,500000000,2024-06-01,2029-05-31
+MP0168,West Bengal,Rekha Yadav,West Bengal PC-40,500000000,2024-06-01,2029-05-31
+MP0169,West Bengal,Prakash Kulkarni,West Bengal PC-41,500000000,2024-06-01,2029-05-31
+MP0170,West Bengal,Harish Rao,West Bengal PC-42,500000000,2024-06-01,2029-05-31
+MP0171,Bihar,Rekha Chauhan,Bihar PC-1,500000000,2024-06-01,2029-05-31
+MP0172,Bihar,Priya Kulkarni,Bihar PC-2,500000000,2024-06-01,2029-05-31
+MP0173,Bihar,Amit Mehta,Bihar PC-3,500000000,2024-06-01,2029-05-31
+MP0174,Bihar,Dinesh Kulkarni,Bihar PC-4,500000000,2024-06-01,2029-05-31
+MP0175,Bihar,Rekha Pillai,Bihar PC-5,500000000,2024-06-01,2029-05-31
+MP0176,Bihar,Sunita Yadav,Bihar PC-6,500000000,2024-06-01,2029-05-31
+MP0177,Bihar,Vinod Patel,Bihar PC-7,500000000,2024-06-01,2029-05-31
+MP0178,Bihar,Usha Das,Bihar PC-8,500000000,2024-06-01,2029-05-31
+MP0179,Bihar,Kavita Banerjee,Bihar PC-9,500000000,2024-06-01,2029-05-31
+MP0180,Bihar,Prakash Thakur,Bihar PC-10,500000000,2024-06-01,2029-05-31
+MP0181,Bihar,Geeta Das,Bihar PC-11,500000000,2024-06-01,2029-05-31
+MP0182,Bihar,Amit Joshi,Bihar PC-12,500000000,2024-06-01,2029-05-31
+MP0183,Bihar,Poonam Bhatt,Bihar PC-13,500000000,2024-06-01,2029-05-31
+MP0184,Bihar,Lata Deshmukh,Bihar PC-14,500000000,2024-06-01,2029-05-31
+MP0185,Bihar,Neelam Mishra,Bihar PC-15,500000000,2024-06-01,2029-05-31
+MP0186,Bihar,Amit Gupta,Bihar PC-16,500000000,2024-06-01,2029-05-31
+MP0187,Bihar,Anita Mehta,Bihar PC-17,500000000,2024-06-01,2029-05-31
+MP0188,Bihar,Vijay Iyer,Bihar PC-18,500000000,2024-06-01,2029-05-31
+MP0189,Bihar,Suresh Yadav,Bihar PC-19,500000000,2024-06-01,2029-05-31
+MP0190,Bihar,Kishore Bhattacharya,Bihar PC-20,500000000,2024-06-01,2029-05-31
+MP0191,Bihar,Prakash Pandey,Bihar PC-21,500000000,2024-06-01,2029-05-31
+MP0192,Bihar,Rakesh Gupta,Bihar PC-22,500000000,2024-06-01,2029-05-31
+MP0193,Bihar,Vinod Joshi,Bihar PC-23,500000000,2024-06-01,2029-05-31
+MP0194,Bihar,Anita Patel,Bihar PC-24,500000000,2024-06-01,2029-05-31
+MP0195,Bihar,Rakesh Sharma,Bihar PC-25,500000000,2024-06-01,2029-05-31
+MP0196,Bihar,Shobha Joshi,Bihar PC-26,500000000,2024-06-01,2029-05-31
+MP0197,Bihar,Ramesh Bhattacharya,Bihar PC-27,500000000,2024-06-01,2029-05-31
+MP0198,Bihar,Vikram Mishra,Bihar PC-28,500000000,2024-06-01,2029-05-31
+MP0199,Bihar,Harish Pandey,Bihar PC-29,500000000,2024-06-01,2029-05-31
+MP0200,Bihar,Deepak Thakur,Bihar PC-30,500000000,2024-06-01,2029-05-31
+MP0201,Bihar,Lata Thakur,Bihar PC-31,500000000,2024-06-01,2029-05-31
+MP0202,Bihar,Ajay Naidu,Bihar PC-32,500000000,2024-06-01,2029-05-31
+MP0203,Bihar,Arun Nair,Bihar PC-33,500000000,2024-06-01,2029-05-31
+MP0204,Bihar,Kavita Kulkarni,Bihar PC-34,500000000,2024-06-01,2029-05-31
+MP0205,Bihar,Vinod Mehta,Bihar PC-35,500000000,2024-06-01,2029-05-31
+MP0206,Bihar,Harish Thakur,Bihar PC-36,500000000,2024-06-01,2029-05-31
+MP0207,Bihar,Ajay Sharma,Bihar PC-37,500000000,2024-06-01,2029-05-31
+MP0208,Bihar,Mahesh Naidu,Bihar PC-38,500000000,2024-06-01,2029-05-31
+MP0209,Bihar,Meena Bhattacharya,Bihar PC-39,500000000,2024-06-01,2029-05-31
+MP0210,Bihar,Vijay Pandey,Bihar PC-40,500000000,2024-06-01,2029-05-31
+MP0211,Tamil Nadu,Satish Chatterjee,Tamil Nadu PC-1,500000000,2024-06-01,2029-05-31
+MP0212,Tamil Nadu,Yogesh Choudhary,Tamil Nadu PC-2,500000000,2024-06-01,2029-05-31
+MP0213,Tamil Nadu,Lata Mondal,Tamil Nadu PC-3,500000000,2024-06-01,2029-05-31
+MP0214,Tamil Nadu,Sunita Kumar,Tamil Nadu PC-4,500000000,2024-06-01,2029-05-31
+MP0215,Tamil Nadu,Rajesh Mishra,Tamil Nadu PC-5,500000000,2024-06-01,2029-05-31
+MP0216,Tamil Nadu,Mahesh Das,Tamil Nadu PC-6,500000000,2024-06-01,2029-05-31
+MP0217,Tamil Nadu,Kavita Rao,Tamil Nadu PC-7,500000000,2024-06-01,2029-05-31
+MP0218,Tamil Nadu,Amit Patel,Tamil Nadu PC-8,500000000,2024-06-01,2029-05-31
+MP0219,Tamil Nadu,Harish Singh,Tamil Nadu PC-9,500000000,2024-06-01,2029-05-31
+MP0220,Tamil Nadu,Satish Kulkarni,Tamil Nadu PC-10,500000000,2024-06-01,2029-05-31
+MP0221,Tamil Nadu,Vinod Barman,Tamil Nadu PC-11,500000000,2024-06-01,2029-05-31
+MP0222,Tamil Nadu,Ajay Roy,Tamil Nadu PC-12,500000000,2024-06-01,2029-05-31
+MP0223,Tamil Nadu,Ashok Sharma,Tamil Nadu PC-13,500000000,2024-06-01,2029-05-31
+MP0224,Tamil Nadu,Sanjay Bhattacharya,Tamil Nadu PC-14,500000000,2024-06-01,2029-05-31
+MP0225,Tamil Nadu,Geeta Mehta,Tamil Nadu PC-15,500000000,2024-06-01,2029-05-31
+MP0226,Tamil Nadu,Shobha Banerjee,Tamil Nadu PC-16,500000000,2024-06-01,2029-05-31
+MP0227,Tamil Nadu,Deepak Banerjee,Tamil Nadu PC-17,500000000,2024-06-01,2029-05-31
+MP0228,Tamil Nadu,Manoj Banerjee,Tamil Nadu PC-18,500000000,2024-06-01,2029-05-31
+MP0229,Tamil Nadu,Shobha Pandey,Tamil Nadu PC-19,500000000,2024-06-01,2029-05-31
+MP0230,Tamil Nadu,Yogesh Bhattacharya,Tamil Nadu PC-20,500000000,2024-06-01,2029-05-31
+MP0231,Tamil Nadu,Arun Chatterjee,Tamil Nadu PC-21,500000000,2024-06-01,2029-05-31
+MP0232,Tamil Nadu,Sunita Mondal,Tamil Nadu PC-22,500000000,2024-06-01,2029-05-31
+MP0233,Tamil Nadu,Yogesh Iyer,Tamil Nadu PC-23,500000000,2024-06-01,2029-05-31
+MP0234,Tamil Nadu,Shobha Barman,Tamil Nadu PC-24,500000000,2024-06-01,2029-05-31
+MP0235,Tamil Nadu,Yogesh Singh,Tamil Nadu PC-25,500000000,2024-06-01,2029-05-31
+MP0236,Tamil Nadu,Rajesh Roy,Tamil Nadu PC-26,500000000,2024-06-01,2029-05-31
+MP0237,Tamil Nadu,Poonam Mishra,Tamil Nadu PC-27,500000000,2024-06-01,2029-05-31
+MP0238,Tamil Nadu,Naresh Kumar,Tamil Nadu PC-28,500000000,2024-06-01,2029-05-31
+MP0239,Tamil Nadu,Manoj Rao,Tamil Nadu PC-29,500000000,2024-06-01,2029-05-31
+MP0240,Tamil Nadu,Geeta Gaikwad,Tamil Nadu PC-30,500000000,2024-06-01,2029-05-31
+MP0241,Tamil Nadu,Ashok Choudhary,Tamil Nadu PC-31,500000000,2024-06-01,2029-05-31
+MP0242,Tamil Nadu,Vikram Kulkarni,Tamil Nadu PC-32,500000000,2024-06-01,2029-05-31
+MP0243,Tamil Nadu,Sanjeev Mishra,Tamil Nadu PC-33,500000000,2024-06-01,2029-05-31
+MP0244,Tamil Nadu,Neelam Banerjee,Tamil Nadu PC-34,500000000,2024-06-01,2029-05-31
+MP0245,Tamil Nadu,Sanjeev Reddy,Tamil Nadu PC-35,500000000,2024-06-01,2029-05-31
+MP0246,Tamil Nadu,Meena Kulkarni,Tamil Nadu PC-36,500000000,2024-06-01,2029-05-31
+MP0247,Tamil Nadu,Vinod Verma,Tamil Nadu PC-37,500000000,2024-06-01,2029-05-31
+MP0248,Tamil Nadu,Ashish Gaikwad,Tamil Nadu PC-38,500000000,2024-06-01,2029-05-31
+MP0249,Tamil Nadu,Usha Sharma,Tamil Nadu PC-39,500000000,2024-06-01,2029-05-31
+MP0250,Madhya Pradesh,Vinod Kulkarni,Madhya Pradesh PC-1,500000000,2024-06-01,2029-05-31
+MP0251,Madhya Pradesh,Neelam Das,Madhya Pradesh PC-2,500000000,2024-06-01,2029-05-31
+MP0252,Madhya Pradesh,Kiran Das,Madhya Pradesh PC-3,500000000,2024-06-01,2029-05-31
+MP0253,Madhya Pradesh,Poonam Bhattacharya,Madhya Pradesh PC-4,500000000,2024-06-01,2029-05-31
+MP0254,Madhya Pradesh,Vinod Mishra,Madhya Pradesh PC-5,500000000,2024-06-01,2029-05-31
+MP0255,Madhya Pradesh,Ajay Chauhan,Madhya Pradesh PC-6,500000000,2024-06-01,2029-05-31
+MP0256,Madhya Pradesh,Satish Nair,Madhya Pradesh PC-7,500000000,2024-06-01,2029-05-31
+MP0257,Madhya Pradesh,Harish Verma,Madhya Pradesh PC-8,500000000,2024-06-01,2029-05-31
+MP0258,Madhya Pradesh,Ajay Verma,Madhya Pradesh PC-9,500000000,2024-06-01,2029-05-31
+MP0259,Madhya Pradesh,Priya Reddy,Madhya Pradesh PC-10,500000000,2024-06-01,2029-05-31
+MP0260,Madhya Pradesh,Anita Gaikwad,Madhya Pradesh PC-11,500000000,2024-06-01,2029-05-31
+MP0261,Madhya Pradesh,Naresh Choudhary,Madhya Pradesh PC-12,500000000,2024-06-01,2029-05-31
+MP0262,Madhya Pradesh,Dinesh Gaikwad,Madhya Pradesh PC-13,500000000,2024-06-01,2029-05-31
+MP0263,Madhya Pradesh,Poonam Kulkarni,Madhya Pradesh PC-14,500000000,2024-06-01,2029-05-31
+MP0264,Madhya Pradesh,Anita Kumar,Madhya Pradesh PC-15,500000000,2024-06-01,2029-05-31
+MP0265,Madhya Pradesh,Usha Verma,Madhya Pradesh PC-16,500000000,2024-06-01,2029-05-31
+MP0266,Madhya Pradesh,Neelam Reddy,Madhya Pradesh PC-17,500000000,2024-06-01,2029-05-31
+MP0267,Madhya Pradesh,Prakash Das,Madhya Pradesh PC-18,500000000,2024-06-01,2029-05-31
+MP0268,Madhya Pradesh,Amit Roy,Madhya Pradesh PC-19,500000000,2024-06-01,2029-05-31
+MP0269,Madhya Pradesh,Kavita Verma,Madhya Pradesh PC-20,500000000,2024-06-01,2029-05-31
+MP0270,Madhya Pradesh,Rekha Nair,Madhya Pradesh PC-21,500000000,2024-06-01,2029-05-31
+MP0271,Madhya Pradesh,Usha Gupta,Madhya Pradesh PC-22,500000000,2024-06-01,2029-05-31
+MP0272,Madhya Pradesh,Ashish Choudhary,Madhya Pradesh PC-23,500000000,2024-06-01,2029-05-31
+MP0273,Madhya Pradesh,Satish Iyer,Madhya Pradesh PC-24,500000000,2024-06-01,2029-05-31
+MP0274,Madhya Pradesh,Kishore Gupta,Madhya Pradesh PC-25,500000000,2024-06-01,2029-05-31
+MP0275,Madhya Pradesh,Sunita Thakur,Madhya Pradesh PC-26,500000000,2024-06-01,2029-05-31
+MP0276,Madhya Pradesh,Sanjay Verma,Madhya Pradesh PC-27,500000000,2024-06-01,2029-05-31
+MP0277,Madhya Pradesh,Mahesh Gaikwad,Madhya Pradesh PC-28,500000000,2024-06-01,2029-05-31
+MP0278,Madhya Pradesh,Ajay Joshi,Madhya Pradesh PC-29,500000000,2024-06-01,2029-05-31
+MP0279,Karnataka,Sanjay Thakur,Karnataka PC-1,500000000,2024-06-01,2029-05-31
+MP0280,Karnataka,Ashish Patel,Karnataka PC-2,500000000,2024-06-01,2029-05-31
+MP0281,Karnataka,Prakash Bhattacharya,Karnataka PC-3,500000000,2024-06-01,2029-05-31
+MP0282,Karnataka,Ramesh Singh,Karnataka PC-4,500000000,2024-06-01,2029-05-31
+MP0283,Karnataka,Lata Mishra,Karnataka PC-5,500000000,2024-06-01,2029-05-31
+MP0284,Karnataka,Raj Kulkarni,Karnataka PC-6,500000000,2024-06-01,2029-05-31
+MP0285,Karnataka,Kiran Yadav,Karnataka PC-7,500000000,2024-06-01,2029-05-31
+MP0286,Karnataka,Rakesh Rathore,Karnataka PC-8,500000000,2024-06-01,2029-05-31
+MP0287,Karnataka,Satish Rao,Karnataka PC-9,500000000,2024-06-01,2029-05-31
+MP0288,Karnataka,Rakesh Mehta,Karnataka PC-10,500000000,2024-06-01,2029-05-31
+MP0289,Karnataka,Shobha Pillai,Karnataka PC-11,500000000,2024-06-01,2029-05-31
+MP0290,Karnataka,Harish Mondal,Karnataka PC-12,500000000,2024-06-01,2029-05-31
+MP0291,Karnataka,Satish Bhattacharya,Karnataka PC-13,500000000,2024-06-01,2029-05-31
+MP0292,Karnataka,Ravi Pillai,Karnataka PC-14,500000000,2024-06-01,2029-05-31
+MP0293,Karnataka,Yogesh Roy,Karnataka PC-15,500000000,2024-06-01,2029-05-31
+MP0294,Karnataka,Satish Gaikwad,Karnataka PC-16,500000000,2024-06-01,2029-05-31
+MP0295,Karnataka,Kiran Pandey,Karnataka PC-17,500000000,2024-06-01,2029-05-31
+MP0296,Karnataka,Priya Barman,Karnataka PC-18,500000000,2024-06-01,2029-05-31
+MP0297,Karnataka,Meena Bhatt,Karnataka PC-19,500000000,2024-06-01,2029-05-31
+MP0298,Karnataka,Anita Mishra,Karnataka PC-20,500000000,2024-06-01,2029-05-31
+MP0299,Karnataka,Poonam Pillai,Karnataka PC-21,500000000,2024-06-01,2029-05-31
+MP0300,Karnataka,Sanjeev Barman,Karnataka PC-22,500000000,2024-06-01,2029-05-31
+MP0301,Karnataka,Arun Roy,Karnataka PC-23,500000000,2024-06-01,2029-05-31
+MP0302,Karnataka,Usha Barman,Karnataka PC-24,500000000,2024-06-01,2029-05-31
+MP0303,Karnataka,Yogesh Verma,Karnataka PC-25,500000000,2024-06-01,2029-05-31
+MP0304,Karnataka,Ravi Naidu,Karnataka PC-26,500000000,2024-06-01,2029-05-31
+MP0305,Karnataka,Geeta Deshmukh,Karnataka PC-27,500000000,2024-06-01,2029-05-31
+MP0306,Karnataka,Rekha Thakur,Karnataka PC-28,500000000,2024-06-01,2029-05-31
+MP0307,Gujarat,Vijay Rathore,Gujarat PC-1,500000000,2024-06-01,2029-05-31
+MP0308,Gujarat,Usha Bhatt,Gujarat PC-2,500000000,2024-06-01,2029-05-31
+MP0309,Gujarat,Prakash Banerjee,Gujarat PC-3,500000000,2024-06-01,2029-05-31
+MP0310,Gujarat,Poonam Thakur,Gujarat PC-4,500000000,2024-06-01,2029-05-31
+MP0311,Gujarat,Anita Das,Gujarat PC-5,500000000,2024-06-01,2029-05-31
+MP0312,Gujarat,Deepak Joshi,Gujarat PC-6,500000000,2024-06-01,2029-05-31
+MP0313,Gujarat,Naresh Gupta,Gujarat PC-7,500000000,2024-06-01,2029-05-31
+MP0314,Gujarat,Neelam Mehta,Gujarat PC-8,500000000,2024-06-01,2029-05-31
+MP0315,Gujarat,Kavita Choudhary,Gujarat PC-9,500000000,2024-06-01,2029-05-31
+MP0316,Gujarat,Usha Pillai,Gujarat PC-10,500000000,2024-06-01,2029-05-31
+MP0317,Gujarat,Vijay Naidu,Gujarat PC-11,500000000,2024-06-01,2029-05-31
+MP0318,Gujarat,Sanjay Joshi,Gujarat PC-12,500000000,2024-06-01,2029-05-31
+MP0319,Gujarat,Rajesh Das,Gujarat PC-13,500000000,2024-06-01,2029-05-31
+MP0320,Gujarat,Ramesh Mehta,Gujarat PC-14,500000000,2024-06-01,2029-05-31
+MP0321,Gujarat,Mahesh Sharma,Gujarat PC-15,500000000,2024-06-01,2029-05-31
+MP0322,Gujarat,Neelam Nair,Gujarat PC-16,500000000,2024-06-01,2029-05-31
+MP0323,Gujarat,Anil Naidu,Gujarat PC-17,500000000,2024-06-01,2029-05-31
+MP0324,Gujarat,Sanjay Sharma,Gujarat PC-18,500000000,2024-06-01,2029-05-31
+MP0325,Gujarat,Ashish Naidu,Gujarat PC-19,500000000,2024-06-01,2029-05-31
+MP0326,Gujarat,Usha Mondal,Gujarat PC-20,500000000,2024-06-01,2029-05-31
+MP0327,Gujarat,Yogesh Mishra,Gujarat PC-21,500000000,2024-06-01,2029-05-31
+MP0328,Gujarat,Anita Mondal,Gujarat PC-22,500000000,2024-06-01,2029-05-31
+MP0329,Gujarat,Ajay Barman,Gujarat PC-23,500000000,2024-06-01,2029-05-31
+MP0330,Gujarat,Vikram Reddy,Gujarat PC-24,500000000,2024-06-01,2029-05-31
+MP0331,Gujarat,Ashok Rao,Gujarat PC-25,500000000,2024-06-01,2029-05-31
+MP0332,Gujarat,Ashish Thakur,Gujarat PC-26,500000000,2024-06-01,2029-05-31
+MP0333,Rajasthan,Deepak Kulkarni,Rajasthan PC-1,500000000,2024-06-01,2029-05-31
+MP0334,Rajasthan,Kishore Das,Rajasthan PC-2,500000000,2024-06-01,2029-05-31
+MP0335,Rajasthan,Shobha Gaikwad,Rajasthan PC-3,500000000,2024-06-01,2029-05-31
+MP0336,Rajasthan,Yogesh Chatterjee,Rajasthan PC-4,500000000,2024-06-01,2029-05-31
+MP0337,Rajasthan,Mahesh Bhattacharya,Rajasthan PC-5,500000000,2024-06-01,2029-05-31
+MP0338,Rajasthan,Mahesh Reddy,Rajasthan PC-6,500000000,2024-06-01,2029-05-31
+MP0339,Rajasthan,Harish Yadav,Rajasthan PC-7,500000000,2024-06-01,2029-05-31
+MP0340,Rajasthan,Meena Choudhary,Rajasthan PC-8,500000000,2024-06-01,2029-05-31
+MP0341,Rajasthan,Sunita Roy,Rajasthan PC-9,500000000,2024-06-01,2029-05-31
+MP0342,Rajasthan,Sanjeev Chatterjee,Rajasthan PC-10,500000000,2024-06-01,2029-05-31
+MP0343,Rajasthan,Kishore Mondal,Rajasthan PC-11,500000000,2024-06-01,2029-05-31
+MP0344,Rajasthan,Rajesh Patel,Rajasthan PC-12,500000000,2024-06-01,2029-05-31
+MP0345,Rajasthan,Rajesh Banerjee,Rajasthan PC-13,500000000,2024-06-01,2029-05-31
+MP0346,Rajasthan,Vikram Das,Rajasthan PC-14,500000000,2024-06-01,2029-05-31
+MP0347,Rajasthan,Anita Joshi,Rajasthan PC-15,500000000,2024-06-01,2029-05-31
+MP0348,Rajasthan,Ashok Pillai,Rajasthan PC-16,500000000,2024-06-01,2029-05-31
+MP0349,Rajasthan,Ashok Singh,Rajasthan PC-17,500000000,2024-06-01,2029-05-31
+MP0350,Rajasthan,Yogesh Gupta,Rajasthan PC-18,500000000,2024-06-01,2029-05-31
+MP0351,Rajasthan,Satish Thakur,Rajasthan PC-19,500000000,2024-06-01,2029-05-31
+MP0352,Rajasthan,Ajay Pillai,Rajasthan PC-20,500000000,2024-06-01,2029-05-31
+MP0353,Rajasthan,Lata Barman,Rajasthan PC-21,500000000,2024-06-01,2029-05-31
+MP0354,Rajasthan,Yogesh Kumar,Rajasthan PC-22,500000000,2024-06-01,2029-05-31
+MP0355,Rajasthan,Kishore Patel,Rajasthan PC-23,500000000,2024-06-01,2029-05-31
+MP0356,Rajasthan,Rakesh Pandey,Rajasthan PC-24,500000000,2024-06-01,2029-05-31
+MP0357,Rajasthan,Amit Kumar,Rajasthan PC-25,500000000,2024-06-01,2029-05-31
+MP0358,Andhra Pradesh,Priya Mondal,Andhra Pradesh PC-1,500000000,2024-06-01,2029-05-31
+MP0359,Andhra Pradesh,Poonam Mehta,Andhra Pradesh PC-2,500000000,2024-06-01,2029-05-31
+MP0360,Andhra Pradesh,Kiran Kumar,Andhra Pradesh PC-3,500000000,2024-06-01,2029-05-31
+MP0361,Andhra Pradesh,Naresh Yadav,Andhra Pradesh PC-4,500000000,2024-06-01,2029-05-31
+MP0362,Andhra Pradesh,Sunita Mishra,Andhra Pradesh PC-5,500000000,2024-06-01,2029-05-31
+MP0363,Andhra Pradesh,Rajesh Deshmukh,Andhra Pradesh PC-6,500000000,2024-06-01,2029-05-31
+MP0364,Andhra Pradesh,Arun Patel,Andhra Pradesh PC-7,500000000,2024-06-01,2029-05-31
+MP0365,Andhra Pradesh,Satish Kumar,Andhra Pradesh PC-8,500000000,2024-06-01,2029-05-31
+MP0366,Andhra Pradesh,Naresh Iyer,Andhra Pradesh PC-9,500000000,2024-06-01,2029-05-31
+MP0367,Andhra Pradesh,Kavita Rathore,Andhra Pradesh PC-10,500000000,2024-06-01,2029-05-31
+MP0368,Andhra Pradesh,Harish Barman,Andhra Pradesh PC-11,500000000,2024-06-01,2029-05-31
+MP0369,Andhra Pradesh,Yogesh Reddy,Andhra Pradesh PC-12,500000000,2024-06-01,2029-05-31
+MP0370,Andhra Pradesh,Rajesh Chatterjee,Andhra Pradesh PC-13,500000000,2024-06-01,2029-05-31
+MP0371,Andhra Pradesh,Kiran Gupta,Andhra Pradesh PC-14,500000000,2024-06-01,2029-05-31
+MP0372,Andhra Pradesh,Arun Kulkarni,Andhra Pradesh PC-15,500000000,2024-06-01,2029-05-31
+MP0373,Andhra Pradesh,Kiran Naidu,Andhra Pradesh PC-16,500000000,2024-06-01,2029-05-31
+MP0374,Andhra Pradesh,Lata Pillai,Andhra Pradesh PC-17,500000000,2024-06-01,2029-05-31
+MP0375,Andhra Pradesh,Sanjeev Mondal,Andhra Pradesh PC-18,500000000,2024-06-01,2029-05-31
+MP0376,Andhra Pradesh,Usha Roy,Andhra Pradesh PC-19,500000000,2024-06-01,2029-05-31
+MP0377,Andhra Pradesh,Kishore Nair,Andhra Pradesh PC-20,500000000,2024-06-01,2029-05-31
+MP0378,Andhra Pradesh,Vikram Pillai,Andhra Pradesh PC-21,500000000,2024-06-01,2029-05-31
+MP0379,Andhra Pradesh,Raj Naidu,Andhra Pradesh PC-22,500000000,2024-06-01,2029-05-31
+MP0380,Andhra Pradesh,Mahesh Barman,Andhra Pradesh PC-23,500000000,2024-06-01,2029-05-31
+MP0381,Andhra Pradesh,Ashok Chatterjee,Andhra Pradesh PC-24,500000000,2024-06-01,2029-05-31
+MP0382,Andhra Pradesh,Neelam Mondal,Andhra Pradesh PC-25,500000000,2024-06-01,2029-05-31
+MP0383,Odisha,Prakash Mishra,Odisha PC-1,500000000,2024-06-01,2029-05-31
+MP0384,Odisha,Arun Gaikwad,Odisha PC-2,500000000,2024-06-01,2029-05-31
+MP0385,Odisha,Kavita Roy,Odisha PC-3,500000000,2024-06-01,2029-05-31
+MP0386,Odisha,Geeta Kulkarni,Odisha PC-4,500000000,2024-06-01,2029-05-31
+MP0387,Odisha,Suresh Pandey,Odisha PC-5,500000000,2024-06-01,2029-05-31
+MP0388,Odisha,Usha Gaikwad,Odisha PC-6,500000000,2024-06-01,2029-05-31
+MP0389,Odisha,Vinod Rao,Odisha PC-7,500000000,2024-06-01,2029-05-31
+MP0390,Odisha,Kiran Patel,Odisha PC-8,500000000,2024-06-01,2029-05-31
+MP0391,Odisha,Manoj Mishra,Odisha PC-9,500000000,2024-06-01,2029-05-31
+MP0392,Odisha,Sanjay Chatterjee,Odisha PC-10,500000000,2024-06-01,2029-05-31
+MP0393,Odisha,Sanjay Banerjee,Odisha PC-11,500000000,2024-06-01,2029-05-31
+MP0394,Odisha,Raj Rao,Odisha PC-12,500000000,2024-06-01,2029-05-31
+MP0395,Odisha,Sanjeev Rao,Odisha PC-13,500000000,2024-06-01,2029-05-31
+MP0396,Odisha,Vikram Mondal,Odisha PC-14,500000000,2024-06-01,2029-05-31
+MP0397,Odisha,Harish Deshmukh,Odisha PC-15,500000000,2024-06-01,2029-05-31
+MP0398,Odisha,Ravi Mishra,Odisha PC-16,500000000,2024-06-01,2029-05-31
+MP0399,Odisha,Neelam Gaikwad,Odisha PC-17,500000000,2024-06-01,2029-05-31
+MP0400,Odisha,Naresh Barman,Odisha PC-18,500000000,2024-06-01,2029-05-31
+MP0401,Odisha,Neelam Patel,Odisha PC-19,500000000,2024-06-01,2029-05-31
+MP0402,Odisha,Rekha Naidu,Odisha PC-20,500000000,2024-06-01,2029-05-31
+MP0403,Odisha,Geeta Kumar,Odisha PC-21,500000000,2024-06-01,2029-05-31
+MP0404,Kerala,Rakesh Yadav,Kerala PC-1,500000000,2024-06-01,2029-05-31
+MP0405,Kerala,Rajesh Bhatt,Kerala PC-2,500000000,2024-06-01,2029-05-31
+MP0406,Kerala,Ashok Roy,Kerala PC-3,500000000,2024-06-01,2029-05-31
+MP0407,Kerala,Shobha Kulkarni,Kerala PC-4,500000000,2024-06-01,2029-05-31
+MP0408,Kerala,Ashish Mehta,Kerala PC-5,500000000,2024-06-01,2029-05-31
+MP0409,Kerala,Sunita Mehta,Kerala PC-6,500000000,2024-06-01,2029-05-31
+MP0410,Kerala,Ravi Gaikwad,Kerala PC-7,500000000,2024-06-01,2029-05-31
+MP0411,Kerala,Harish Roy,Kerala PC-8,500000000,2024-06-01,2029-05-31
+MP0412,Kerala,Kiran Rao,Kerala PC-9,500000000,2024-06-01,2029-05-31
+MP0413,Kerala,Geeta Banerjee,Kerala PC-10,500000000,2024-06-01,2029-05-31
+MP0414,Kerala,Anita Banerjee,Kerala PC-11,500000000,2024-06-01,2029-05-31
+MP0415,Kerala,Anita Sharma,Kerala PC-12,500000000,2024-06-01,2029-05-31
+MP0416,Kerala,Neelam Chauhan,Kerala PC-13,500000000,2024-06-01,2029-05-31
+MP0417,Kerala,Rakesh Iyer,Kerala PC-14,500000000,2024-06-01,2029-05-31
+MP0418,Kerala,Kavita Gaikwad,Kerala PC-15,500000000,2024-06-01,2029-05-31
+MP0419,Kerala,Usha Yadav,Kerala PC-16,500000000,2024-06-01,2029-05-31
+MP0420,Kerala,Rekha Gaikwad,Kerala PC-17,500000000,2024-06-01,2029-05-31
+MP0421,Kerala,Ashish Bhatt,Kerala PC-18,500000000,2024-06-01,2029-05-31
+MP0422,Kerala,Rajesh Verma,Kerala PC-19,500000000,2024-06-01,2029-05-31
+MP0423,Kerala,Raj Reddy,Kerala PC-20,500000000,2024-06-01,2029-05-31
+MP0424,Telangana,Kishore Barman,Telangana PC-1,500000000,2024-06-01,2029-05-31
+MP0425,Telangana,Kishore Bhatt,Telangana PC-2,500000000,2024-06-01,2029-05-31
+MP0426,Telangana,Geeta Joshi,Telangana PC-3,500000000,2024-06-01,2029-05-31
+MP0427,Telangana,Harish Iyer,Telangana PC-4,500000000,2024-06-01,2029-05-31
+MP0428,Telangana,Manoj Yadav,Telangana PC-5,500000000,2024-06-01,2029-05-31
+MP0429,Telangana,Yogesh Patel,Telangana PC-6,500000000,2024-06-01,2029-05-31
+MP0430,Telangana,Manoj Kumar,Telangana PC-7,500000000,2024-06-01,2029-05-31
+MP0431,Telangana,Rajesh Pandey,Telangana PC-8,500000000,2024-06-01,2029-05-31
+MP0432,Telangana,Sanjeev Mehta,Telangana PC-9,500000000,2024-06-01,2029-05-31
+MP0433,Telangana,Kavita Nair,Telangana PC-10,500000000,2024-06-01,2029-05-31
+MP0434,Telangana,Neelam Rathore,Telangana PC-11,500000000,2024-06-01,2029-05-31
+MP0435,Telangana,Sunita Iyer,Telangana PC-12,500000000,2024-06-01,2029-05-31
+MP0436,Telangana,Usha Naidu,Telangana PC-13,500000000,2024-06-01,2029-05-31
+MP0437,Telangana,Satish Singh,Telangana PC-14,500000000,2024-06-01,2029-05-31
+MP0438,Telangana,Ashok Das,Telangana PC-15,500000000,2024-06-01,2029-05-31
+MP0439,Telangana,Ajay Rathore,Telangana PC-16,500000000,2024-06-01,2029-05-31
+MP0440,Telangana,Ravi Deshmukh,Telangana PC-17,500000000,2024-06-01,2029-05-31
+MP0441,Jharkhand,Satish Rathore,Jharkhand PC-1,500000000,2024-06-01,2029-05-31
+MP0442,Jharkhand,Ramesh Yadav,Jharkhand PC-2,500000000,2024-06-01,2029-05-31
+MP0443,Jharkhand,Geeta Mondal,Jharkhand PC-3,500000000,2024-06-01,2029-05-31
+MP0444,Jharkhand,Amit Pandey,Jharkhand PC-4,500000000,2024-06-01,2029-05-31
+MP0445,Jharkhand,Harish Das,Jharkhand PC-5,500000000,2024-06-01,2029-05-31
+MP0446,Jharkhand,Vikram Banerjee,Jharkhand PC-6,500000000,2024-06-01,2029-05-31
+MP0447,Jharkhand,Mahesh Kulkarni,Jharkhand PC-7,500000000,2024-06-01,2029-05-31
+MP0448,Jharkhand,Deepak Nair,Jharkhand PC-8,500000000,2024-06-01,2029-05-31
+MP0449,Jharkhand,Suresh Patel,Jharkhand PC-9,500000000,2024-06-01,2029-05-31
+MP0450,Jharkhand,Deepak Yadav,Jharkhand PC-10,500000000,2024-06-01,2029-05-31
+MP0451,Jharkhand,Vinod Banerjee,Jharkhand PC-11,500000000,2024-06-01,2029-05-31
+MP0452,Jharkhand,Ramesh Kulkarni,Jharkhand PC-12,500000000,2024-06-01,2029-05-31
+MP0453,Jharkhand,Vijay Rao,Jharkhand PC-13,500000000,2024-06-01,2029-05-31
+MP0454,Jharkhand,Sanjeev Yadav,Jharkhand PC-14,500000000,2024-06-01,2029-05-31
+MP0455,Assam,Kiran Kulkarni,Assam PC-1,500000000,2024-06-01,2029-05-31
+MP0456,Assam,Ramesh Choudhary,Assam PC-2,500000000,2024-06-01,2029-05-31
+MP0457,Assam,Rekha Rathore,Assam PC-3,500000000,2024-06-01,2029-05-31
+MP0458,Assam,Sanjay Rathore,Assam PC-4,500000000,2024-06-01,2029-05-31
+MP0459,Assam,Neelam Bhatt,Assam PC-5,500000000,2024-06-01,2029-05-31
+MP0460,Assam,Anil Deshmukh,Assam PC-6,500000000,2024-06-01,2029-05-31
+MP0461,Assam,Poonam Joshi,Assam PC-7,500000000,2024-06-01,2029-05-31
+MP0462,Assam,Kishore Verma,Assam PC-8,500000000,2024-06-01,2029-05-31
+MP0463,Assam,Anil Mishra,Assam PC-9,500000000,2024-06-01,2029-05-31
+MP0464,Assam,Vijay Choudhary,Assam PC-10,500000000,2024-06-01,2029-05-31
+MP0465,Assam,Geeta Mishra,Assam PC-11,500000000,2024-06-01,2029-05-31
+MP0466,Assam,Priya Gupta,Assam PC-12,500000000,2024-06-01,2029-05-31
+MP0467,Assam,Amit Nair,Assam PC-13,500000000,2024-06-01,2029-05-31
+MP0468,Assam,Raj Bhatt,Assam PC-14,500000000,2024-06-01,2029-05-31
+MP0469,Punjab,Rekha Pandey,Punjab PC-1,500000000,2024-06-01,2029-05-31
+MP0470,Punjab,Manoj Kulkarni,Punjab PC-2,500000000,2024-06-01,2029-05-31
+MP0471,Punjab,Shobha Gupta,Punjab PC-3,500000000,2024-06-01,2029-05-31
+MP0472,Punjab,Yogesh Rathore,Punjab PC-4,500000000,2024-06-01,2029-05-31
+MP0473,Punjab,Yogesh Das,Punjab PC-5,500000000,2024-06-01,2029-05-31
+MP0474,Punjab,Harish Patel,Punjab PC-6,500000000,2024-06-01,2029-05-31
+MP0475,Punjab,Shobha Thakur,Punjab PC-7,500000000,2024-06-01,2029-05-31
+MP0476,Punjab,Satish Verma,Punjab PC-8,500000000,2024-06-01,2029-05-31
+MP0477,Punjab,Ajay Bhattacharya,Punjab PC-9,500000000,2024-06-01,2029-05-31
+MP0478,Punjab,Sanjay Barman,Punjab PC-10,500000000,2024-06-01,2029-05-31
+MP0479,Punjab,Ravi Pandey,Punjab PC-11,500000000,2024-06-01,2029-05-31
+MP0480,Punjab,Kishore Rao,Punjab PC-12,500000000,2024-06-01,2029-05-31
+MP0481,Punjab,Poonam Pandey,Punjab PC-13,500000000,2024-06-01,2029-05-31
+MP0482,Chhattisgarh,Vinod Naidu,Chhattisgarh PC-1,500000000,2024-06-01,2029-05-31
+MP0483,Chhattisgarh,Sanjay Gupta,Chhattisgarh PC-2,500000000,2024-06-01,2029-05-31
+MP0484,Chhattisgarh,Arun Choudhary,Chhattisgarh PC-3,500000000,2024-06-01,2029-05-31
+MP0485,Chhattisgarh,Rakesh Chatterjee,Chhattisgarh PC-4,500000000,2024-06-01,2029-05-31
+MP0486,Chhattisgarh,Dinesh Banerjee,Chhattisgarh PC-5,500000000,2024-06-01,2029-05-31
+MP0487,Chhattisgarh,Ajay Kulkarni,Chhattisgarh PC-6,500000000,2024-06-01,2029-05-31
+MP0488,Chhattisgarh,Sanjay Pandey,Chhattisgarh PC-7,500000000,2024-06-01,2029-05-31
+MP0489,Chhattisgarh,Anita Rathore,Chhattisgarh PC-8,500000000,2024-06-01,2029-05-31
+MP0490,Chhattisgarh,Ashok Mondal,Chhattisgarh PC-9,500000000,2024-06-01,2029-05-31
+MP0491,Chhattisgarh,Vikram Kumar,Chhattisgarh PC-10,500000000,2024-06-01,2029-05-31
+MP0492,Chhattisgarh,Ravi Kumar,Chhattisgarh PC-11,500000000,2024-06-01,2029-05-31
+MP0493,Haryana,Ramesh Nair,Haryana PC-1,500000000,2024-06-01,2029-05-31
+MP0494,Haryana,Arun Reddy,Haryana PC-2,500000000,2024-06-01,2029-05-31
+MP0495,Haryana,Vijay Mishra,Haryana PC-3,500000000,2024-06-01,2029-05-31
+MP0496,Haryana,Kishore Thakur,Haryana PC-4,500000000,2024-06-01,2029-05-31
+MP0497,Haryana,Prakash Yadav,Haryana PC-5,500000000,2024-06-01,2029-05-31
+MP0498,Haryana,Geeta Yadav,Haryana PC-6,500000000,2024-06-01,2029-05-31
+MP0499,Haryana,Prakash Rathore,Haryana PC-7,500000000,2024-06-01,2029-05-31
+MP0500,Haryana,Ashish Das,Haryana PC-8,500000000,2024-06-01,2029-05-31
+MP0501,Haryana,Rakesh Verma,Haryana PC-9,500000000,2024-06-01,2029-05-31
+MP0502,Haryana,Kishore Pillai,Haryana PC-10,500000000,2024-06-01,2029-05-31
+MP0503,Delhi,Dinesh Bhatt,Delhi PC-1,500000000,2024-06-01,2029-05-31
+MP0504,Delhi,Raj Mehta,Delhi PC-2,500000000,2024-06-01,2029-05-31
+MP0505,Delhi,Ashok Deshmukh,Delhi PC-3,500000000,2024-06-01,2029-05-31
+MP0506,Delhi,Vikram Rao,Delhi PC-4,500000000,2024-06-01,2029-05-31
+MP0507,Delhi,Shobha Choudhary,Delhi PC-5,500000000,2024-06-01,2029-05-31
+MP0508,Delhi,Satish Mishra,Delhi PC-6,500000000,2024-06-01,2029-05-31
+MP0509,Delhi,Sunita Rathore,Delhi PC-7,500000000,2024-06-01,2029-05-31
+MP0510,Jammu and Kashmir,Mahesh Pandey,Jammu and Kashmir PC-1,500000000,2024-06-01,2029-05-31
+MP0511,Jammu and Kashmir,Anil Rao,Jammu and Kashmir PC-2,500000000,2024-06-01,2029-05-31
+MP0512,Jammu and Kashmir,Sunita Reddy,Jammu and Kashmir PC-3,500000000,2024-06-01,2029-05-31
+MP0513,Jammu and Kashmir,Kiran Chatterjee,Jammu and Kashmir PC-4,500000000,2024-06-01,2029-05-31
+MP0514,Jammu and Kashmir,Sanjeev Pillai,Jammu and Kashmir PC-5,500000000,2024-06-01,2029-05-31
+MP0515,Uttarakhand,Meena Gupta,Uttarakhand PC-1,500000000,2024-06-01,2029-05-31
+MP0516,Uttarakhand,Deepak Naidu,Uttarakhand PC-2,500000000,2024-06-01,2029-05-31
+MP0517,Uttarakhand,Vijay Barman,Uttarakhand PC-3,500000000,2024-06-01,2029-05-31
+MP0518,Uttarakhand,Suresh Das,Uttarakhand PC-4,500000000,2024-06-01,2029-05-31
+MP0519,Uttarakhand,Ajay Reddy,Uttarakhand PC-5,500000000,2024-06-01,2029-05-31
+MP0520,Himachal Pradesh,Raj Choudhary,Himachal Pradesh PC-1,500000000,2024-06-01,2029-05-31
+MP0521,Himachal Pradesh,Mahesh Choudhary,Himachal Pradesh PC-2,500000000,2024-06-01,2029-05-31
+MP0522,Himachal Pradesh,Deepak Sharma,Himachal Pradesh PC-3,500000000,2024-06-01,2029-05-31
+MP0523,Himachal Pradesh,Kiran Bhattacharya,Himachal Pradesh PC-4,500000000,2024-06-01,2029-05-31
+MP0524,Goa,Priya Nair,Goa PC-1,500000000,2024-06-01,2029-05-31
+MP0525,Goa,Vinod Das,Goa PC-2,500000000,2024-06-01,2029-05-31
+MP0526,Tripura,Lata Bhatt,Tripura PC-1,500000000,2024-06-01,2029-05-31
+MP0527,Tripura,Vikram Deshmukh,Tripura PC-2,500000000,2024-06-01,2029-05-31
+MP0528,Meghalaya,Suresh Bhattacharya,Meghalaya PC-1,500000000,2024-06-01,2029-05-31
+MP0529,Meghalaya,Amit Banerjee,Meghalaya PC-2,500000000,2024-06-01,2029-05-31
+MP0530,Manipur,Vikram Pandey,Manipur PC-1,500000000,2024-06-01,2029-05-31
+MP0531,Manipur,Ashish Bhattacharya,Manipur PC-2,500000000,2024-06-01,2029-05-31
+MP0532,Arunachal Pradesh,Ashish Deshmukh,Arunachal Pradesh PC-1,500000000,2024-06-01,2029-05-31
+MP0533,Arunachal Pradesh,Sanjeev Naidu,Arunachal Pradesh PC-2,500000000,2024-06-01,2029-05-31
+MP0534,Nagaland,Deepak Deshmukh,Nagaland PC-1,500000000,2024-06-01,2029-05-31
+MP0535,Mizoram,Ramesh Kumar,Mizoram PC-1,500000000,2024-06-01,2029-05-31
+MP0536,Sikkim,Rekha Bhattacharya,Sikkim PC-1,500000000,2024-06-01,2029-05-31
+MP0537,Chandigarh,Shobha Kumar,Chandigarh PC-1,500000000,2024-06-01,2029-05-31
+MP0538,Puducherry,Ajay Thakur,Puducherry PC-1,500000000,2024-06-01,2029-05-31
+MP0539,Andaman and Nicobar Islands,Dinesh Das,Andaman and Nicobar Islands PC-1,500000000,2024-06-01,2029-05-31
+MP0540,Dadra and Nagar Haveli and Daman and Diu,Dinesh Chauhan,Dadra and Nagar Haveli and Daman and Diu PC-1,500000000,2024-06-01,2029-05-31
+MP0541,Dadra and Nagar Haveli and Daman and Diu,Vikram Gupta,Dadra and Nagar Haveli and Daman and Diu PC-2,500000000,2024-06-01,2029-05-31
+MP0542,Lakshadweep,Priya Rao,Lakshadweep PC-1,500000000,2024-06-01,2029-05-31
+MP0543,Ladakh,Vikram Mehta,Ladakh PC-1,500000000,2024-06-01,2029-05-31
